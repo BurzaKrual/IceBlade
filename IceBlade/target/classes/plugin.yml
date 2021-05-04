@@ -1,0 +1,10 @@
+name: IceBlade
+version: 1.0-SNAPSHOT
+main: me.burzakrual.iceblade.Main
+api-version: 1.16
+authors: [ BurzaKrual, Snozzlebot ]
+description: Custom İtems
+commands:
+  iceblade:
+    description: Iceblade
+    usage: /<command>
